@@ -1,0 +1,9 @@
+Open main.py
+
+In line 71, Change path of the file "soccer" to desired file location.
+Line 510, to change camera position if required.
+
+Run main.py
+
+Enter your choice on the output screen to perform shading (1.Constant 2.Gouraud 3.Phong)
+The output window will appear after the user input
