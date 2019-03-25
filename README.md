@@ -8,4 +8,5 @@ a) Geometric data for polygonal objects
 b) Viewing Parameters
 c) Lighting Parameters
 
-### Output: Constant, Gouraud and Phong shaded views of objects.
+### Output: 
+Constant, Gouraud and Phong shaded views of objects.
